@@ -185,7 +185,7 @@ The performance of both baselines will be displayed.
   These datasets are free for general research use.
 
 ## Citation
-When referring to the 2019 shared task, cite the following paper: 
+* When referring to the 2019 shared task, cite the following paper: 
 ```
 @InProceedings{clef-checkthat:2019,
  author = "Elsayed, Tamer and
@@ -205,7 +205,7 @@ When referring to the 2019 shared task, cite the following paper:
 }
 ```
 
-When referring specifically to Task 1, please, cite the following : 
+* When referring specifically to Task 1, please, cite the following : 
 ```
 @InProceedings{clef-checkthat-T1:2019,
     author = "Atanasova, Pepa and
@@ -218,8 +218,8 @@ When referring specifically to Task 1, please, cite the following :
 }
 ```
 
-To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib). <br>
-If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib). [[PROCEEDINGS WITH ALL PAPERS]](http://ceur-ws.org/Vol-2125/)
+* To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib). <br>
+* If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib). [[PROCEEDINGS WITH ALL PAPERS from 2018]](http://ceur-ws.org/Vol-2125/)
 
 
 ## Credits
