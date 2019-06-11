@@ -219,7 +219,8 @@ When referring specifically to Task 1, please, cite the following :
 ```
 
 To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib). <br>
-If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib).
+If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib). [[PROCEEDINGS WITH ALL PAPERS]](http://ceur-ws.org/Vol-2125/)
+
 
 ## Credits
 
