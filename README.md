@@ -1,6 +1,8 @@
 # CLEF2019-CheckThat! Task 1
 This repository contains the _dataset_ for the [CLEF2019-CheckThat! task 1](https://sites.google.com/view/clef2019-checkthat/).
 
+For information about the previous edition of the shared task, refer to [CLEF2018-CheckThat!](http://alt.qcri.org/clef2018-factcheck/)
+
 It also contains the _format checker, scorer and baselines_ for the task.
 
 ````
@@ -216,7 +218,7 @@ When referring specifically to Task 1, please, cite the following :
 }
 ```
 
-To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib).
+To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib). <br>
 If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib).
 
 ## Credits
