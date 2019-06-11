@@ -83,6 +83,9 @@ We provide the following files:
   
   - [clef18.bib](clef18.bib) - Bibliography of the overview papers from CLEF-2018 Shared task.
   
+  - [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib) - Bibliography of overview and participants' papers.
+  - [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib) - Bibliography of last year's overview and participants' papers.
+  
 ## Subtask 1 : __Check-Worthiness__. 
 
 Predict which claim in a political debate should be prioritized for fact-checking. In particular, given a debate, speech or a press conference the goal is to produce a ranked list of its sentences based on their worthiness for fact checking.
@@ -179,6 +182,42 @@ The performance of both baselines will be displayed.
 
   These datasets are free for general research use.
 
+## Citation
+When referring to the 2019 shared task, cite the following paper: 
+```
+@InProceedings{clef-checkthat:2019,
+ author = "Elsayed, Tamer and
+    Nakov, Preslav and
+    Barr\'{o}n-Cede{\~n}o, Alberto and
+    Hasanain, Maram and
+    Suwaileh, Reem and
+    {Da San Martino}, Giovanni and 
+    Atanasova, Pepa",
+ title  = "Overview of the CLEF-2019 CheckThat!: Automatic Identification and Verification of Claims",
+ booktitle = "Experimental IR Meets Multilinguality, Multimodality, and Interaction",
+ series    = "LNCS",
+ pubblisher = "Springer",
+ address   = "Lugano, Switzerland",
+ month     = "September",
+ year      = 2019
+}
+```
+
+When referring specifically to Task 1, please, cite the following : 
+```
+@InProceedings{clef-checkthat-T1:2019,
+    author = "Atanasova, Pepa and
+    Nakov, Preslav and
+    Karadzhov, Georgi and
+    Mohtarami, Mitra and
+    Da San Martino, Giovanni",
+    title  = "Overview of the CLEF-2019 CheckThat! Lab on Automatic Identification and Verification of Claims. Task 1: Check-Worthiness",
+    crossref = "clef-ceur:19"
+}
+```
+
+To cite participants' papers refer to the following file [working_notes/clef19_checkthat.bib](working_notes/clef19_checkthat.bib).
+If you want to cite any of the papers from the previous edition of the task, refer to this file [working_notes/clef18_checkthat.bib](working_notes/clef18_checkthat.bib).
 
 ## Credits
 
